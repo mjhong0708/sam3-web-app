@@ -1,0 +1,1 @@
+# Segment Anything Model 3 (SAM3) image segmentation demo
